@@ -1,0 +1,66 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01234567",
+          "briefTitle": "Pembrolizumab for Metastatic Triple-Negative Breast Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "lastUpdatePostDateStruct": {
+            "date": "2025-11-01"
+          }
+        },
+        "descriptionModule": {
+          "briefSummary": "This phase 2 study evaluates pembrolizumab in adults with metastatic triple-negative breast cancer."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Metastatic Triple-Negative Breast Cancer"
+          ]
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Pembrolizumab"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "stdAges": ["ADULT", "OLDER_ADULT"],
+          "minimumAge": "18 Years",
+          "eligibilityCriteria": "Adults with confirmed metastatic triple-negative breast cancer are eligible."
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": ["PHASE2"]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Objective response rate",
+              "timeFrame": "24 weeks"
+            }
+          ]
+        },
+        "contactsLocationsModule": {
+          "locations": [
+            {
+              "facility": "City of Hope",
+              "city": "Duarte",
+              "country": "United States"
+            }
+          ]
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Merck Sharp & Dohme LLC"
+          }
+        }
+      }
+    }
+  ]
+}
+

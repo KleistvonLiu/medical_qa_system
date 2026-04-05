@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>39876543</PMID>
+      <Article>
+        <Abstract>
+          <AbstractText Label="Background">Semaglutide is increasingly used in adults with obesity.</AbstractText>
+          <AbstractText Label="Results">Common adverse events were gastrointestinal and treatment discontinuation remained limited.</AbstractText>
+          <AbstractText Label="Conclusions">Overall tolerability was acceptable in most study populations.</AbstractText>
+        </Abstract>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+</PubmedArticleSet>
+

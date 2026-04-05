@@ -1,0 +1,26 @@
+{
+  "result": {
+    "uids": ["39876543"],
+    "39876543": {
+      "uid": "39876543",
+      "title": "Semaglutide safety and tolerability in adults with obesity",
+      "sortpubdate": "2024-07-20",
+      "pubdate": "2024 Jul 20",
+      "source": "J Clin Metab",
+      "fulljournalname": "Journal of Clinical Metabolism",
+      "authors": [
+        {
+          "name": "Lee J"
+        },
+        {
+          "name": "Patel R"
+        }
+      ],
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  }
+}
+
